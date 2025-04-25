@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    color: black;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
